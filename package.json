@@ -1,0 +1,12 @@
+{
+  "name": "new-portfolio",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "sass-build": "sass --no-source-map src/stylesheets/index.scss public/stylesheets/index.css --watch ",
+    "serve": "live-server ./public"
+  },
+  "author": "",
+  "license": "ISC"
+}
